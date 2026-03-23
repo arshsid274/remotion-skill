@@ -1,0 +1,14 @@
+{
+  "name": "remotion-skill",
+  "owner": {
+    "name": "arshsid274"
+  },
+  "plugins": [
+    {
+      "name": "remotion",
+      "description": "Programmatic video creation with React and Remotion — compositions, animations, rendering, and more.",
+      "version": "1.0.0",
+      "source": "./"
+    }
+  ]
+}
